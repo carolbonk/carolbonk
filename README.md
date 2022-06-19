@@ -1,7 +1,7 @@
 ### Hi there, I'm Carol - aka [carolbonk] 
 
-##
-<script src="https://letsupgrade.medium.com/the-undisputed-king-of-programming-languages-javascript-d941846b9b8b"></>
+
+   ![Javascript](/https://letsupgrade.medium.com/the-undisputed-king-of-programming-languages-javascript-d941846b9b8b)
 
 
 ## 👨🏻‍💻 About Me:
@@ -20,7 +20,7 @@
 - Cloud Services: Heroku, Netlify, Cloudinary 
 
 
-
+##
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carolbonk&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
