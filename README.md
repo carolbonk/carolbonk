@@ -4,7 +4,7 @@
    ![Javascript](https://miro.medium.com/max/1400/1*EVYr7K-N_CNFRJtD4KiQEg.gif)
 
 
-## 👨🏻‍💻 About Me:
+## 👩‍💻  About Me:
 
 - 💻 I'm a recent graduate from BrainStation Bootcamp Web Development
 - ⏳ Currently exploring Web 3.0 & Typescript
