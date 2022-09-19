@@ -1,13 +1,8 @@
-### Hey, it's nice to see you here!
+### Hey, 
+### it's nice to see you here!
 
 
-   ![Javascript](https://miro.medium.com/max/1400/1*EVYr7K-N_CNFRJtD4KiQEg.gif)
-
-
-
-
-
-## 👩‍💻  About Carol:
+## 👩‍💻  About me:
 
 - 💻 I'm a recent graduate from BrainStation Bootcamp Web Development
 - 🚀 Always ready to collaborate for Dev Experiments
