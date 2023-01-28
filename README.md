@@ -1,5 +1,3 @@
-### Hey, 
-### it's nice to see you here!
 
 
 ## 👩‍💻  About me:
