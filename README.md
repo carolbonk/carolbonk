@@ -7,8 +7,6 @@
 - 💻 I'm a recent graduate from BrainStation Bootcamp Web Development
 - 🚀 Always ready to collaborate on dev experiments
 - ⏳ Currently exploring Web 3.0
-- ⚡ Fun fact: I love to attend Meetups/Conferences for Networking, 
-to play BBall 🏀 & guitar 🎸 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/carolaine-bonk/">send me a msg on LinkedIn</a> or <a href="https://www.carolbonk.dev/">visit my portfolio!</a>
 
 
