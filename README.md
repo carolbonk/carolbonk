@@ -3,9 +3,9 @@
 ## 👩‍💻  About me:
 
 - 💻 I'm a Full Stack Web Developer
-- 🚀 Founder of https://www.cloudbrewers.com/
+- 🚀 Web Developer at https://www.cloudbrewers.com/
 - ⏳ Currently exploring everything AI :)
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/carolaine-bonk/">send me a msg on LinkedIn</a> or <a href="https://www.carolbonk.dev/">visit my portfolio!</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/carolaine-bonk/">send me a msg on LinkedIn</a> or <a href="https://www.carolbonk.com/">visit my portfolio!</a>
 
 
 
