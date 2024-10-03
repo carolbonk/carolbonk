@@ -10,7 +10,7 @@
 
 
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️ Technologies/Tools I use:
 
 ## Front End: 
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,sass,bootstrap,gulp,nextjs,threejs,vscode,js,react,dart,flutter,webflow,wordpress)](https://skillicons.dev)
