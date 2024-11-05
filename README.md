@@ -3,9 +3,10 @@
 ## 👩‍💻  About me:
 
 - 💻 I'm a Full Stack Web Developer
-- 🚀 Web Developer at https://www.cloudbrewers.com/
+- 🚀 Founder and Web Developer at https://www.cloudbrewers.com/
 - ⏳ Currently exploring everything AI :)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/carolaine-bonk/">send me a msg on LinkedIn</a> or <a href="https://www.carolbonk.com/">visit my portfolio!</a>
+- 🪐 My NFT's: opensea.io/bonkerxz
 
 
 
