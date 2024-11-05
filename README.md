@@ -2,13 +2,11 @@
 
 ## 👩‍💻  About me:
 
-- 💻 I'm a Full Stack Web Developer
-- 🚀 Founder and Web Developer at https://www.cloudbrewers.com/
-- ⏳ Currently exploring everything AI :)
+- 💻 I'm a Full Stack Web Developer and <a href="https://www.behance.net/carolbonk">UX Designer</a>
+- 🚀 Founder, Web Developer and UX Designer at <a href="https://www.cloudbrewers.com/">CloudBrewers</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/carolaine-bonk/">send me a msg on LinkedIn</a> or <a href="https://www.carolbonk.com/">visit my portfolio!</a>
 - 🪐 My NFT's: <a href="https://www.opensea.io/bonkerxz">click here to check!</a>
-
-
+- ⏳ Currently exploring everything AI :)
 
 
 ## 🛠️ Technologies/Tools I use:
