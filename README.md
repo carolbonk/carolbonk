@@ -1,7 +1,7 @@
 
 ## 👩‍💻  About me:
 
-- 💻 I'm a Full Stack Web Developer & <a href="https://www.behance.net/carolbonk">UX Designer</a>
+- 💻 I'm a Full Stack Web Developer && UX/UI Designer</a>
 - 🚀 Founder && Web Developer at <a href="https://www.cloudbrewers.com/">CloudBrewers</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/carolaine-bonk/">msg me on LinkedIn</a> || <a href="https://www.carolbonk.com/">visit my portfolio!</a>
 - 🪐 Check my NFTs on <a href="https://www.opensea.io/bonkerxz"> openSea</a> || <a href="https://x.com/bonkerxz">follow me on X</a> - to check my NFTs posts.
