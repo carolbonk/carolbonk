@@ -2,9 +2,9 @@
 ## 👩‍💻  About me:
 
 - 💻 I'm a Full Stack Web Developer & <a href="https://www.behance.net/carolbonk">UX Designer</a>
-- 🚀 Founder, Web Developer & UX Designer at <a href="https://www.cloudbrewers.com/">CloudBrewers</a>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/carolaine-bonk/">send me a msg on LinkedIn</a> or <a href="https://www.carolbonk.com/">visit my portfolio!</a>
-- 🪐 Check my NFTs on <a href="https://www.opensea.io/bonkerxz"> openSea</a> or <a href="https://x.com/bonkerxz">follow me on X</a> - to check my NFTs posts.
+- 🚀 Founder && Web Developer at <a href="https://www.cloudbrewers.com/">CloudBrewers</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/carolaine-bonk/">msg me on LinkedIn</a> || <a href="https://www.carolbonk.com/">visit my portfolio!</a>
+- 🪐 Check my NFTs on <a href="https://www.opensea.io/bonkerxz"> openSea</a> || <a href="https://x.com/bonkerxz">follow me on X</a> - to check my NFTs posts.
 - ⏳ Currently exploring everything AI. If you're part of the hugging face community, <a href="https://huggingface.co/CarolBonk">follow me</a> :)
 - 🧸 Feel free to also connect with me here on github, I'll be happy to!
 
