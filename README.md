@@ -13,7 +13,7 @@
 ## 🛠️ Technologies/Tools I use:
 
 ## Front End: 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,sass,bootstrap,nextjs,threejs,vscode,js,react,dart,flutter,webflow,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,sass,bootstrap,nextjs,threejs,vscode,js,react,dart,flutter,wordpress)](https://skillicons.dev)
 
 
 ## Back End and Cloud Services: 
