@@ -4,8 +4,8 @@
 - 💻 Full Stack Web Developer && UX Designer</a>
 - 🚀 Founder && Web Developer at <a href="https://www.cloudbrewers.com/">CloudBrewers</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/carolaine-bonk/">msg me on LinkedIn</a> || <a href="https://www.carolbonk.com/">visit my portfolio!</a>
-- ⏳ Currently exploring everything AI. If you're part of the hugging face community, <a href="https://huggingface.co/CarolBonk">follow me there</a> 
-- 🪐 Wanna check my <a href="https://x.com/bonkerxz">NFTs</a>? :)
+- ⏳ If you're part of the hugging face community, <a href="https://huggingface.co/CarolBonk">let's connect</a> :)
+- 🪐 Wanna check my <a href="https://x.com/bonkerxz">NFTs</a>? 
 
 
 ## 🛠️ Technologies/Tools I use:
