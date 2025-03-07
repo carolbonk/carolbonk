@@ -1,7 +1,7 @@
 
 ## 👩‍💻  About me:
 
-- 💻 Full Stack Web Developer && UX Designer</a>
+- 💻 Full Stack Web Developer</a>
 - 🚀 Founder && Web Developer at <a href="https://www.cloudbrewers.com/">CloudBrewers</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/carolaine-bonk/">msg me on LinkedIn</a> || <a href="https://www.carolbonk.com/">visit my portfolio!</a>
 - ⏳ If you're part of the hugging face community, <a href="https://huggingface.co/CarolBonk">let's connect</a> :)
