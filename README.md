@@ -1,5 +1,5 @@
 
-## 👩‍💻  About Bonk:
+### 👩‍💻  About Bonk:
 
 - 💻 Full Stack Web Developer</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/carolaine-bonk/">msg me on LinkedIn</a> || <a href="https://www.carolbonk.com/">visit my portfolio!</a>
@@ -12,7 +12,7 @@
   [![Demo](https://img.shields.io/badge/🤗%20Live%20Demo-FairMediator-blue?style=for-the-badge)](https://huggingface.co/spaces/CarolBonk/FairMediator_AI_Demo)
   
 
-## 🛠️ Technologies/Tools I use:
+### 🛠️ Technologies/Tools I use:
 
 ## Front End: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,nextjs,threejs,vscode,js,react,dart,flutter,wordpress,figma)](https://skillicons.dev)
@@ -22,4 +22,5 @@
 [![My Skills](https://skillicons.dev/icons?i=npm,babel,nodejs,nextjs,express,mysql,mongodb,docker,postman,jest,heroku,netlify,vercel)](https://skillicons.dev)
 
 
-## 🚀 Coming Soon <a href="https://www.fairmediator.ai/">fairmediator.ai</a> and <a href="https://www.igatheer.ai/">igatheer.ai</a>
+## 🚀 Coming Soon 
+- <a href="https://www.fairmediator.ai/">fairmediator.ai</a> and <a href="https://www.igatheer.ai/">igatheer.ai</a>
