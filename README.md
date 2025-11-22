@@ -6,9 +6,7 @@
 - ⏳ If you're part of the hugging face community, <a href="https://huggingface.co/CarolBonk">let's connect</a> :)
 
   ### ⚖️ FairMediator
-  AI-powered mediator matching & screening platform
-
-  [![Demo](https://img.shields.io/badge/🤗%20Live%20Demo-FairMediator-blue?style=for-the-badge)](https://huggingface.co/spaces/CarolBonk/FairMediator_AI_Demo)
+  AI-powered mediator matching & screening platform [![Demo](https://img.shields.io/badge/🤗%20Live%20Demo-FairMediator-blue?style=for-the-badge)](https://huggingface.co/spaces/CarolBonk/FairMediator_AI_Demo)
   
 - 🚀 Coming Soon <a href="https://www.fairmediator.ai/">fairmediator.ai</a> and <a href="https://www.igatheer.ai/">igatheer.ai</a>
 
