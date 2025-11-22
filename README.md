@@ -2,7 +2,7 @@
 ## 👩‍💻  About me:
 
 - 💻 Full Stack Web Developer</a>
-- 🚀 Founder && CTO/CDO of <a href="https://www.fairmediator.ai/">fairmediator.ai</a> and <a href="https://www.igatheer.ai/">igatheer.ai</a>
+- 🚀 Founder of <a href="https://www.fairmediator.ai/">fairmediator.ai</a> and <a href="https://www.igatheer.ai/">igatheer.ai</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/carolaine-bonk/">msg me on LinkedIn</a> || <a href="https://www.carolbonk.com/">visit my portfolio!</a>
 - ⏳ If you're part of the hugging face community, <a href="https://huggingface.co/CarolBonk">let's connect</a> :)
 
