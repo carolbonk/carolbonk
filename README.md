@@ -8,12 +8,7 @@
   ### ⚖️ FairMediator
   AI-powered mediator matching & screening platform
 
-  [![Demo](https://img.shields.io/badge/🤗%20Live%20Demo-FairMedia
-  tor-blue?style=for-the-badge)](https://huggingface.co/spaces/Car
-  olBonk/FairMediator_AI_Demo)
-  [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=
-  for-the-badge&logo=github)](https://github.com/carolbonk/fairmed
-  iator.ai)
+  [![Demo](https://img.shields.io/badge/🤗%20Live%20Demo-FairMedia  tor-blue?style=for-the-badge)](https://huggingface.co/spaces/CarolBonk/FairMediator_AI_Demo)
   
 - 🚀 Coming Soon <a href="https://www.fairmediator.ai/">fairmediator.ai</a> and <a href="https://www.igatheer.ai/">igatheer.ai</a>
 
@@ -24,4 +19,4 @@
 
 
 ## Back End and Cloud Services: 
-[![My Skills](https://skillicons.dev/icons?i=npm,babel,nodejs,nextjs,express,googlecollab,notebook,mysql,mongodb,docker,postman,jest,heroku,netlify,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,babel,nodejs,nextjs,express,mysql,mongodb,docker,postman,jest,heroku,netlify,vercel)](https://skillicons.dev)
