@@ -7,7 +7,7 @@
 
 
 ### ⚖️ FairMediator
-  Screen mediators for ideology bias and conflicts of interest using AI. 100% free:
+  Screen mediators for ideology bias and conflicts of interest using AI. 100% free!
   
   [![Demo](https://img.shields.io/badge/🤗%20Live%20Demo-FairMediator-blue?style=for-the-badge)](https://huggingface.co/spaces/CarolBonk/FairMediator_AI_Demo)
   
@@ -19,7 +19,7 @@
 
 
 ## Back End and Cloud Services: 
-[![My Skills](https://skillicons.dev/icons?i=npm,babel,nodejs,nextjs,express,mysql,mongodb,docker,postman,jest,heroku,netlify,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,babel,nodejs,nestjs,express,mysql,mongodb,docker,postman,jest,heroku,netlify,vercel)](https://skillicons.dev)
 
 
 ## 🚀 Coming Soon 
