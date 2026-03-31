@@ -9,11 +9,11 @@
 ### 🛠️ Technologies/Tools I use:
 
 ## Front End: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,nextjs,threejs,vscode,js,react,dart,flutter,wordpress,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,jquery,nextjs,threejs,vscode,js,ts,react,dart,flutter,flutterflow,wordpress,figma)](https://skillicons.dev)
 
 
 ## Back End and Cloud Services: 
-[![My Skills](https://skillicons.dev/icons?i=npm,babel,nodejs,nestjs,express,mysql,mongodb,docker,postman,jest,heroku,netlify,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,babel,nodejs,nestjs,express,mysql,mongodb,supabase,docker,postman,jest,heroku,netlify,vercel,cloudflare,oracle)](https://skillicons.dev)
 
 
 ### 🚀 Coming Soon 
