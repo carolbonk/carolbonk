@@ -13,7 +13,7 @@
 
 
 ## Back End and Cloud Services: 
-[![My Skills](https://skillicons.dev/icons?i=npm,babel,nodejs,nestjs,express,mysql,mongodb,supabase,sqlite,ipfs,nginx,py,pytorch,php,grafana,redis,docker,postman,jest,npm,fastapi,heroku,netlify,vercel,cloudflare,ubuntu,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,babel,nodejs,nestjs,express,mysql,mongodb,supabase,sqlite,ipfs,nginx,py,pytorch,grafana,redis,docker,postman,jest,fastapi,heroku,netlify,vercel,cloudflare,ubuntu,vscode)](https://skillicons.dev)
 
 
 ### 🚀 Coming Soon 
