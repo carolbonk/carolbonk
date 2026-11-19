@@ -1,7 +1,6 @@
 
 # 👋  Hey, I'm Carol Bonk 
 Miami, FL | Here's my <a href="https://www.linkedin.com/in/carolaine-bonk/">LinkedIn</a>, my <a href="https://www.carolbonk.com/">portfolio</a>, and my <a href="https://huggingface.co/CarolBonk">hugging face</a>. Let's connect:)
-  
 
 ## 👩‍💻 Technical Skills:
 - Languages & Frameworks: Python, JavaScript (Three.js, Node.js, React.js, Next.js, Angular, Express), Typescript, Flutter, Dart, HTML5, CSS3, Sass, Flexbox, Bootstrap, JQuery, Tailwind CSS, NPM, Babel, MQL5
@@ -26,9 +25,8 @@ Miami, FL | Here's my <a href="https://www.linkedin.com/in/carolaine-bonk/">Link
 -  Engaging in full-stack development (end-to-end project development)
 -  Focusing on the project management with Odoo and Python integration
 
-### Founder, CEO & CTO  ### @ <a href="https://pairlane.app">PairLane</a>
--  Engaged in full‑stack mobile development
--  Owning both frontend and backend codebases 
+### Founder, CEO/CTO @ <a href="https://pairlane.app">PairLane</a>
+-  Engaged in full‑stack mobile development (owning both frontend and backend codebases) 
 -  Clean server‑side implementations and a smooth, intuitive experience on the client side
 
 #### Click here <a href="https://www.linkedin.com/in/carolaine-bonk/">for more</a>.
