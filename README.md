@@ -1,7 +1,6 @@
 
 # 👋  Hey, I'm Carol Bonk 
-Miami, FL | <a href="https://www.linkedin.com/in/carolaine-bonk/">msg me on LinkedIn</a> || <a href="https://www.carolbonk.com/">visit my portfolio!</a>
-⏳ If you're part of the hugging face community, <a href="https://huggingface.co/CarolBonk">let's connect</a> :)
+Miami, FL | msg me on <a href="https://www.linkedin.com/in/carolaine-bonk/">LinkedIn</a> or visit my <a href="https://www.carolbonk.com/">portfolio!</a> If you're part of the hugging face community, <a href="https://huggingface.co/CarolBonk">let's connect</a> :)
   
 
 ## 👩‍💻 Technical Skills:
