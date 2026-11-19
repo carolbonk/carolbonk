@@ -22,13 +22,15 @@ Miami, FL | Here's my <a href="https://www.linkedin.com/in/carolaine-bonk/">Link
 - NLP & RAG Pipelines
 
 ## 💼 Professional Journey
-Co-founder, CTO & Lead Engineer  ### @ ⚖️ 
+### Co-founder, CTO & Lead Engineer  @ 
  <a href="https://www.fairmediator.ai">Fair Mediator</a>
 -  Engaging in full-stack development (end-to-end project development)
 -  Focusing on the project management with Odoo and Python integration
 
-Founder, CEO & CTO  ### @ 
+### Founder, CEO & CTO  ### @ 
  <a href="https://pairlane.app">PairLane</a>
 -  Engaged in full‑stack mobile development
 -  Owning both frontend and backend codebases 
 -  Clean server‑side implementations and a smooth, intuitive experience on the client side
+
+#### Click here <a href="https://www.linkedin.com/in/carolaine-bonk/">for more</a>.
